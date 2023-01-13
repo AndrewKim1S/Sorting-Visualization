@@ -1,1 +1,0 @@
-A sorting visualizer
